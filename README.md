@@ -17,7 +17,9 @@ cd socks4-proxy-server
 make
 ```
 2. Start
-`./socks_server [port]`
+```shell=
+./socks_server [port]
+```
 3. Modify the browser proxy setting (FireFox)
 
 ## SOCKS 4 Implementation
